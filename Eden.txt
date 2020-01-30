@@ -1,0 +1,15 @@
+Libre | 1 | 15000 | Double | NULL | NULL | NULL | 
+Libre | 2 | 15000 | Double | NULL | NULL | NULL | 
+Libre | 3 | 15000 | Double | NULL | NULL | NULL | 
+Libre | 4 | 15000 | Double | NULL | NULL | NULL | 
+Libre | 5 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 6 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 7 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 8 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 9 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 10 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 11 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 12 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 13 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 14 | 12200 | Individuelle | NULL | NULL | NULL | 
+Libre | 15 | 12200 | Individuelle | NULL | NULL | NULL | 

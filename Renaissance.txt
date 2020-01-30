@@ -1,0 +1,6 @@
+Libre | 1 | 15724 | Individuelle | NULL | NULL | NULL | 
+Libre | 6 | 15724 | Double | NULL | NULL | NULL | 
+Libre | 5 | 19169 | Double | NULL | NULL | NULL | 
+Libre | 4 | 26500 | Double | NULL | NULL | NULL | 
+Libre | 3 | 6334 | Double | NULL | NULL | NULL | 
+Libre | 2 | 18467 | Double | NULL | NULL | NULL | 

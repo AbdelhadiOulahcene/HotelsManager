@@ -1,0 +1,13 @@
+Libre | 11 | 7000 | Individuelle | NULL | NULL | NULL | 
+Libre | 10 | 2400 | Double | NULL | NULL | NULL | 
+Libre | 9 | 26000 | Double | NULL | NULL | NULL | 
+Libre | 8 | 29000 | Double | NULL | NULL | NULL | 
+Libre | 7 | 11500 | Double | NULL | NULL | NULL | 
+Libre | 6 | 15700 | Double | NULL | NULL | NULL | 
+Libre | 5 | 19900 | Double | NULL | NULL | NULL | 
+Libre | 4 | 26500 | Double | NULL | NULL | NULL | 
+Libre | 3 | 26300 | Double | NULL | NULL | NULL | 
+Libre | 2 | 1800 | Double | NULL | NULL | NULL | 
+Occupe | 1 | 41000 | Double | 12/01/2019 | 12/01/2019 | Amine | 
+Occupe | 12 | 28900 | Individuelle | 22/08/2018 | 22/08/2018 | Younes | 
+

@@ -1,0 +1,4 @@
+Sheraton | Alger | 16 | 15 | 1 | 
+Renaissance | Tlemcen | 6 | 6 | 0 | 
+Aurassi | Alger | 12 | 10 | 2 | 
+Eden | Sba | 15 | 15 | 0 | 

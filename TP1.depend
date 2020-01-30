@@ -1,0 +1,221 @@
+# depslib dependency file v1.0
+1523553652 source:c:\users\abdelkhalek\desktop\tp1\tp1\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+
+1523572363 source:c:\users\abdelkhalek\desktop\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+
+1523572378 c:\users\abdelkhalek\desktop\tp1\tp1\biblio_llc.h
+
+1523629872 source:d:\tp1\tp1\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+
+1523629594 source:d:\tp1\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.c"
+	<string.h>
+
+1523629912 d:\tp1\tp1\biblio_llc.h
+
+1523629634 d:\tp1\tp1\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+
+1523708524 source:c:\users\beast99\desktop\tp1\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+
+1523708745 c:\users\beast99\desktop\tp1\biblio_llc.h
+
+1523706268 source:c:\users\beast99\desktop\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+
+1523655052 source:d:\tp1\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+
+1523655052 d:\tp1\biblio_llc.h
+
+1523655084 source:d:\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+
+1523656934 source:g:\tp1\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+
+1523656986 g:\tp1\biblio_llc.h
+
+1523657052 source:g:\tp1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+
+1523736314 source:c:\users\beast99\desktop\tp1minz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+
+1523722145 c:\users\beast99\desktop\tp1minz\biblio_llc.h
+
+1523732845 source:c:\users\beast99\desktop\tp1minz\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+
+1523864332 source:c:\users\abdelkhalek\desktop\tp1minz\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+
+1523832879 c:\users\abdelkhalek\desktop\tp1minz\biblio_llc.h
+
+1523882060 source:c:\users\abdelkhalek\desktop\tp1minz\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+
+1524001190 source:c:\users\abdelkhalek\desktop\tp1-qlgo\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+
+1523999093 c:\users\abdelkhalek\desktop\tp1-qlgo\biblio_llc.h
+
+1524001270 source:c:\users\abdelkhalek\desktop\tp1-qlgo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+
+1524583125 source:c:\users\abdelkhalek\desktop\tp1-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+	"conio21/conio.c"
+
+1524515126 c:\users\abdelkhalek\desktop\tp1-final\biblio_llc.h
+
+1524575926 source:c:\users\abdelkhalek\desktop\tp1-final\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+	<time.h>
+
+1441094282 c:\users\abdelkhalek\desktop\tp1-final\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1441094276 c:\users\abdelkhalek\desktop\tp1-final\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1524672859 source:c:\users\beast99\desktop\tp1-final\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+	<time.h>
+
+1524515128 c:\users\beast99\desktop\tp1-final\biblio_llc.h
+
+1524672918 source:c:\users\beast99\desktop\tp1-final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+	"conio21/conio.c"
+
+1441094276 c:\users\beast99\desktop\tp1-final\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1441094282 c:\users\beast99\desktop\tp1-final\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1524871941 source:c:\users\beast99\desktop\tp1-final-english\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+	<time.h>
+
+1524515128 c:\users\beast99\desktop\tp1-final-english\biblio_llc.h
+
+1524673231 source:c:\users\beast99\desktop\tp1-final-english\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+	"conio21/conio.c"
+
+1441094276 c:\users\beast99\desktop\tp1-final-english\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1441094282 c:\users\beast99\desktop\tp1-final-english\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
+1524944714 source:c:\users\beast99\desktop\zellat_oulahcene_g10\biblio_llc.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Biblio_LLC.h"
+	<time.h>
+
+1524515128 c:\users\beast99\desktop\zellat_oulahcene_g10\biblio_llc.h
+
+1524944464 source:c:\users\beast99\desktop\zellat_oulahcene_g10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblio_LLC.h"
+	<string.h>
+	"conio21/conio.c"
+
+1441094276 c:\users\beast99\desktop\zellat_oulahcene_g10\conio21\conio.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	"conio2.h"
+
+1441094282 c:\users\beast99\desktop\zellat_oulahcene_g10\conio21\conio2.h
+	<conio.h>
+	<windows.h>
+
